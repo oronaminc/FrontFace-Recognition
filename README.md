@@ -11,6 +11,9 @@ FrontFace-Recognition (in vision programming class)
 
 https://www.youtube.com/watch?v=3LNHxezPi1I
 
+## Making Video
+https://user-images.githubusercontent.com/37185394/60816673-2ad1a880-a1d5-11e9-98d1-02f06cc5c3dd.gif
+
 ## Used Models
 
 - Used dlib_face_recognition_resnet_model_v1.dat model
