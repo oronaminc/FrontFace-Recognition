@@ -1,7 +1,17 @@
-# Simple Face Recognition
+# FrontFace-Recognition
+FrontFace-Recognition (in vision programming class)
 
-![matrix5.png](https://github.com/kairess/simple_face_recognition/raw/master/result/matrix5.png)
-![matrix.png](https://github.com/kairess/simple_face_recognition/raw/master/result/matrix.png)
+## Function
+
+1. Making specific face information ( .img -> .npy )
+2. Find Front Face in frame image
+3. Gathering frames and Making Whole video ( .mp4 )
+
+## Making URL
+
+https://www.youtube.com/watch?v=3LNHxezPi1I
+
+## Used Models
 
 - Used dlib_face_recognition_resnet_model_v1.dat model
 - Used dlib frontal_face_detector
